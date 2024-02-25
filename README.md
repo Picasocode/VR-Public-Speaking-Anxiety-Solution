@@ -31,5 +31,7 @@ Our innovative approach involves the application of a therapeutic technique know
 To experience our VR solution, follow link given below:
 
 1. **Google Drive:**
-  
+  - [Google Drive - Project Assets](https://drive.google.com/drive/folders/1Zlq_R9w8ZKKjqQdQJDKB_vOTRGRxV0EL?usp=sharing)
+  - Access additional project assets, documentation, and resources on Google Drive.
+
   
